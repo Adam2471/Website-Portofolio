@@ -35,6 +35,7 @@
                     <li class="nav-item"><a class="nav-link" href="#about">Tentang</a></li>
                     <li class="nav-item"><a class="nav-link" href="#skills">Keahlian</a></li>
                     <li class="nav-item"><a class="nav-link" href="#projects">Proyek</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Kontak</a></li>
                     <li class="nav-item"><a class="nav-link text-info fw-bold" href="#info-cepat"><i class="bi bi-info-circle"></i> Info Cepat</a></li>
                     <li class="nav-item"><a class="btn btn-outline-light btn-sm ms-lg-3" href="admin/login.php">Admin Login</a></li>
                 </ul>
@@ -169,7 +170,51 @@
         </div>
     </section>
 
-    <section id="info-cepat" class="py-5 bg-light border-top shadow-sm">
+    <section id="contact" class="py-5 bg-white">
+        <div class="container">
+            <div class="row justify-content-center text-center">
+                <div class="col-md-8">
+                    <h2 class="fw-bold mb-4">Mari Terhubung!</h2>
+                    <p class="text-muted mb-5">Tertarik untuk bekerja sama atau sekadar ingin berdiskusi? Silakan hubungi saya melalui platform di bawah ini.</p>
+                    
+                    <div class="row g-4">
+                        <div class="col-md-4">
+                            <div class="p-4 border rounded-4 shadow-sm h-100">
+                                <i class="bi bi-whatsapp fs-1 text-success mb-3"></i>
+                                <h5 class="fw-bold">WhatsApp</h5>
+                                <p class="small text-muted">Respon cepat via chat</p>
+                                <a href="https://wa.me/6289506047143" target="_blank" class="btn btn-outline-success btn-sm rounded-pill px-4">Chat Sekarang</a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="p-4 border rounded-4 shadow-sm h-100">
+                                <i class="bi bi-envelope-at fs-1 text-danger mb-3"></i>
+                                <h5 class="fw-bold">Email</h5>
+                                <p class="small text-muted">Kirim pesan</p>
+                                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adammubarok73@gmail.com" 
+                                target="_blank" 
+                                class="btn btn-outline-danger btn-sm rounded-pill px-4">
+                                Kirim Email
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="p-4 border rounded-4 shadow-sm h-100">
+                                <i class="bi bi-linkedin fs-1 text-primary mb-3"></i>
+                                <h5 class="fw-bold">LinkedIn</h5>
+                                <p class="small text-muted">Koneksi Profesional</p>
+                                <a href="https://www.linkedin.com/in/adam-mubarok-1ab49a308/" target="_blank" class="btn btn-outline-primary btn-sm rounded-pill px-4">Hubungkan</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <section id="info-cepat" class="py-5 bg-light border-top shadow-sm">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center mb-4">
